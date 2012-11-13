@@ -1,4 +1,4 @@
 oyaka
 =====
 
-oyaka shopping site
+oyaka stores
